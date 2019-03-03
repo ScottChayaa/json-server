@@ -1,6 +1,5 @@
 {
-  "scokit": {
-    "data": [
+  "scokit": [
         {
             "id": "1",
             "nickname": "Mr. Anibal Baumbach Jr.",
@@ -30,5 +29,4 @@
             "updated_at": "1992-02-11 12:56:08"
         },
     ]
-  }
 }
