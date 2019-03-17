@@ -1,4 +1,21 @@
 {
+  "demo": [
+    {
+      "id": 1,
+      "title": "Demo title 1",
+      "author": "Scott"
+    },
+    {
+      "id": 2,
+      "title": "Demo title 2",
+      "author": "Dog"
+    },
+    {
+      "id": 3,
+      "title": "Demo title 3",
+      "author": "Cat"
+    }
+  ],
   "scokit": {
     "data": [
         {
